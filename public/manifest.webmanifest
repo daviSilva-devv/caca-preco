@@ -1,0 +1,10 @@
+{
+  "name": "Caça Preço",
+  "short_name": "Caça Preço",
+  "description": "Descubra se o preço está realmente bom antes de comprar.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#07090d",
+  "theme_color": "#07090d",
+  "lang": "pt-BR"
+}
